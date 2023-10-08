@@ -6,6 +6,7 @@ public class Main {
         Iphone iphone = new Iphone();
 
         iphone.tocarMusica();
+        iphone.pausarMusica();
     }
 
 }
